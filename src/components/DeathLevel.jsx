@@ -3,7 +3,7 @@ import React from "react";
 function DeathLevel() {
   return (
     <>
-      <section id="death" className="relative bg-[url('Images/graveyard-bg.png')] bg-cover bg-no-repeat bg-center px-4 sm:px-6 md:px-8 py-4 lg:px-12 
+      <section id="death" className="relative bg-[url('/Images/graveyard-bg.png')] bg-cover bg-no-repeat bg-center px-4 sm:px-6 md:px-8 py-4 lg:px-12 
         2xl:max-w-[100rem] mx-auto mt-16 sm:mt-20 md:mt-28 lg:mt-32 scroll-m-32">
         <div className="relative z-10 max-w-[87.5rem] mx-auto md:min-h-[55rem] space-y-8 md:space-y-12">
           <div className="text-center max-w-[42.5rem] mx-auto space-y-3">
