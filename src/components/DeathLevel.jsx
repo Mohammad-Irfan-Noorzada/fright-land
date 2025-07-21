@@ -21,9 +21,9 @@ function DeathLevel() {
           </div>
 
           <div className="flex justify-center items-end gap-6 sm:gap-12 md:gap-16 lg:gap-32 xl:gap-36">
-            <img src="Images/grave-sm.png" alt="" className="w-full sm:w-32 md:w-36 lg:w-40 xl:w-auto"/>
-            <img src="Images/grave-md.png" alt="" className="w-full sm:w-36 md:w-40 lg:w-44 xl:w-auto"/>
-            <img src="Images/grave-xl.png" alt="" className="w-full sm:w-44 md:w-52 lg:w-56 xl:w-auto"/>
+            <img src="Images/grave-sm.png" alt="" className="w-24 sm:w-32 md:w-36 lg:w-40 xl:w-auto"/>
+            <img src="Images/grave-md.png" alt="" className="w-24 sm:w-36 md:w-40 lg:w-44 xl:w-auto"/>
+            <img src="Images/grave-xl.png" alt="" className="w-24 sm:w-44 md:w-52 lg:w-56 xl:w-auto"/>
           </div> 
 
           <div className="flex justify-center items-centers">
