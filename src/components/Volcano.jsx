@@ -3,7 +3,7 @@ import React from "react";
 function Volcano() {
   return (
     <>
-      <section className="relative bg-[url('Images/bg-image.png')] bg-cover bg-no-repeat bg-center mt-16 
+      <section className="relative bg-[url('/Images/bg-image.png')] bg-cover bg-no-repeat bg-center mt-16 
         md:mt-20 xl:mt-28 mx-auto 2xl:max-w-[100rem]">
         <div className="relative z-10 mx-auto px-4 sm:px-6 md:px-8 max-w-[50rem] lg:max-w-[75rem]">
           <div className="flex flex-col lg:flex-row gap-6 sm:gap-10 lg:gap-2 bg-fright-darkViolet p-4 lg:p-8 rounded-md md:rounded-[2.5rem]

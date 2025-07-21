@@ -27,7 +27,7 @@ const cards = [
 function Hero() {
   return (
     <>
-      <section id="home" className="relative bg-[url('Images/hero-bg.png')] bg-cover bg-no-repeat bg-center px-4 sm:px-6 md:px-8 py-4 lg:px-12 mt-16 lg:mt-28
+      <section id="home" className="relative bg-[url('/Images/hero-bg.png')] bg-cover bg-no-repeat bg-center px-4 sm:px-6 md:px-8 py-4 lg:px-12 mt-16 lg:mt-28
         2xl:max-w-[100rem] mx-auto scroll-m-32">
         <div className="relative z-10 max-w-[87.5rem] mx-auto min-h-[44rem]">
           <div className="mt-4 sm:mt-0 flex flex-col sm:flex-row gap-6">
