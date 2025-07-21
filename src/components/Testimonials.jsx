@@ -27,7 +27,7 @@ const testimonials = [
 function Testimonials() {
   return (
     <> 
-      <section id="travelers" className="relative bg-[url('Images/bg-image.png')] bg-cover bg-no-repeat bg-center mt-20 
+      <section id="travelers" className="relative bg-[url('/Images/bg-image.png')] bg-cover bg-no-repeat bg-center mt-20 
         md:mt-20 xl:mt-28 max-w-[75rem] mx-auto scroll-m-32">
         <div className="relative z-10 mx-auto px-4 sm:px-6 md:px-8 flex flex-col lg:flex-row items-center gap-4 lg:gap-14 text-center lg:text-left">
           <div className="">
