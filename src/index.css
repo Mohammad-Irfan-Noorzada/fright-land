@@ -10,6 +10,12 @@
   font-style: normal;
 }
 
+@layer utilities {
+  .hero-bg {
+    background-image: url('/Images/hero-bg.png');
+  }
+}
+
 .btn-gradient-border {
     @apply p-[0.125rem] bg-gradient-to-r from-fright-lightGradientViolet to-fright-darkGradientVioled rounded-xl lg:rounded-2xl
 }
