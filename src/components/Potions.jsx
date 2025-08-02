@@ -75,7 +75,7 @@ function Potions() {
 
           <div className="grid sm:grid-cols-2 gap-4 xl:gap-6">
             {potions.map((potion, id) => (
-              <div key={id} className="bg-fright-deepVioletShade p-4 flex flex-col items-center xl:items-start xl:flex-row xl:items-center gap-4 md:rounded-[2.5rem] 
+              <div key={id} className="bg-fright-deepVioletShade p-4 flex flex-col items-center lg:items-start xl:flex-row xl:items-center gap-4 md:rounded-[2.5rem] 
                 rounded-lg text-center xl:text-left">
                 <div className="">
                   <img 

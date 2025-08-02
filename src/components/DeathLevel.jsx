@@ -3,7 +3,7 @@ import React from "react";
 function DeathLevel() {
   return (
     <>
-      <section id="death" className="relative bg-[url('/Images/graveyard-bg.png')] bg-cover bg-no-repeat bg-center px-4 sm:px-6 md:px-8 py-4 lg:px-12 
+      <section id="death" className="relative bg-death-level-pattern bg-cover bg-no-repeat bg-center px-4 sm:px-6 md:px-8 py-4 lg:px-12 
         2xl:max-w-[100rem] mx-auto mt-16 sm:mt-20 md:mt-28 lg:mt-32 scroll-m-32">
         <div className="relative z-10 max-w-[87.5rem] mx-auto md:min-h-[55rem] space-y-8 md:space-y-12">
           <div className="text-center max-w-[42.5rem] mx-auto space-y-3">
@@ -21,9 +21,9 @@ function DeathLevel() {
           </div>
 
           <div className="flex justify-center items-end gap-6 sm:gap-12 md:gap-16 lg:gap-32 xl:gap-36">
-            <img src="Images/grave-sm.png" alt="" className="w-24 sm:w-32 md:w-36 lg:w-40 xl:w-auto"/>
-            <img src="Images/grave-md.png" alt="" className="w-24 sm:w-36 md:w-40 lg:w-44 xl:w-auto"/>
-            <img src="Images/grave-xl.png" alt="" className="w-24 sm:w-44 md:w-52 lg:w-56 xl:w-auto"/>
+            <img src="Images/grave-sm.png" alt="" className="max-w-24 sm:max-w-32 md:max-w-36 lg:max-w-40 xl:max-w-auto"/>
+            <img src="Images/grave-md.png" alt="" className="max-w-24 sm:max-w-36 md:max-w-40 lg:max-w-44 xl:max-w-auto"/>
+            <img src="Images/grave-xl.png" alt="" className="max-w-24 sm:max-w-44 md:max-w-52 lg:max-w-56 xl:max-w-auto"/>
           </div> 
 
           <div className="flex justify-center items-centers">
